@@ -1,4 +1,4 @@
-Samples for [url to blog post](https://blog.pchudzik.com/????)
+Samples for [url to blog post](https://blog.pchudzik.com/201610/changing-hashcode/)
 
 Few test cases to illustrate why hashCode implementation should be consistent and return the same value on every call.
 
